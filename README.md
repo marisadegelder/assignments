@@ -8,3 +8,5 @@ This repository contains my assignments
 [assignment 4](https://github.com/marisadegelder/assignments/blob/master/assignment4%20(1).ipynb)
 
 [assignment week 6](https://github.com/marisadegelder/assignments/blob/master/Graded_assignment1%20(1).ipynb)
+
+[assignment week 7](https://github.com/marisadegelder/assignments/blob/master/Graded_assignment_2%20inleverversie.ipynb)
