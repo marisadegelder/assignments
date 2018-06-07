@@ -12,3 +12,5 @@ This repository contains my assignments
 [assignment week 7](https://github.com/marisadegelder/assignments/blob/master/Graded_assignment_2%20inleverversie.ipynb)
 
 [assignment R](https://github.com/marisadegelder/assignments/blob/master/Exam_student%20(1).ipynb)
+
+[assignment Python](https://github.com/marisadegelder/assignments/blob/master/exam_june_7_2018%20(1).ipynb)
